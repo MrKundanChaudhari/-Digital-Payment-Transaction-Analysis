@@ -38,9 +38,13 @@ ________________________________________
 ❓ Key Business Questions
 
 •	How do transactions vary month-wise in 2024? 
+
 •	What are the peak transaction periods? 
+
 •	How do transactions differ by payment method and device type? 
+
 •	Which cities and banks have higher transaction activity? 
+
 •	<a href = "https://github.com/MrKundanChaudhari/-Digital-Payment-Transaction-Analysis/blob/main/DashBoard.png">DashBoard InterAction </a> 
 ________________________________________
 ⚙️ Process Followed
