@@ -12,16 +12,27 @@ ________________________________________
 
 •	Digital Payment Transactions Dataset 
 •	Key Fields: 
+    
     o	Bank Name (Sender & Receiver) 
+    
     o	City 
+    
     o	Device Type 
+    
     o	Gender 
+    
     o	Age Group 
+    
     o	Merchant Name 
+    
     o	Payment Method 
+    
     o	Purpose 
+    
     o	Transaction Type 
+    
     o	Transaction Date 
+    
     o	Transaction Amount 
 ________________________________________
 ❓ Key Business Questions
@@ -49,13 +60,20 @@ ________________________________________
 •	Month-wise transaction trend (Line Chart) 
 •	Daily transaction distribution (Column Chart) 
 •	Interactive filters: 
-o	Bank (Sender/Receiver) 
-o	City 
-o	Device Type 
-o	Gender 
-o	Age Group 
-o	Payment Method & Purpose 
-•	Fully dynamic and interactive dashboard 
+    
+    o	Bank (Sender/Receiver) 
+    
+    o	City 
+    
+    o	Device Type 
+    
+    o	Gender 
+    
+    o	Age Group 
+    
+    o	Payment Method & Purpose 
+    
+    •	Fully dynamic and interactive dashboard 
 ________________________________________
 💡 Project Insights
 
