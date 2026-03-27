@@ -41,7 +41,7 @@ ________________________________________
 •	What are the peak transaction periods? 
 •	How do transactions differ by payment method and device type? 
 •	Which cities and banks have higher transaction activity? 
-•	What are the patterns based on age group and gender? 
+•	<a href = "https://github.com/MrKundanChaudhari/-Digital-Payment-Transaction-Analysis/blob/main/DashBoard.png">DashBoard InterAction </a> 
 ________________________________________
 ⚙️ Process Followed
 
