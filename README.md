@@ -12,17 +12,17 @@ ________________________________________
 
 •	Digital Payment Transactions Dataset 
 •	Key Fields: 
-o	Bank Name (Sender & Receiver) 
-o	City 
-o	Device Type 
-o	Gender 
-o	Age Group 
-o	Merchant Name 
-o	Payment Method 
-o	Purpose 
-o	Transaction Type 
-o	Transaction Date 
-o	Transaction Amount 
+    o	Bank Name (Sender & Receiver) 
+    o	City 
+    o	Device Type 
+    o	Gender 
+    o	Age Group 
+    o	Merchant Name 
+    o	Payment Method 
+    o	Purpose 
+    o	Transaction Type 
+    o	Transaction Date 
+    o	Transaction Amount 
 ________________________________________
 ❓ Key Business Questions
 
